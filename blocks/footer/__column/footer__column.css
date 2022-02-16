@@ -1,0 +1,6 @@
+.footer__column {
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    min-height: 250px;
+}
