@@ -5,12 +5,3 @@ margin: 0 auto;
 font-family: 'Inter', Arial, sans-serif;
 }
 
-a {
-    opacity: 100%;
-    transition: opacity .15s linear;  
-}
-
-a:hover {
-    opacity: 50%;
-    
-}

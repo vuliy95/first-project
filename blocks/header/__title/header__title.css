@@ -1,8 +1,9 @@
 .header__title {
     display: flex;
-    width: 730px;
+    max-width: 730px;
     align-items: center;
     justify-content: center;
+    margin: auto;
     margin-left: 64px;
     
 
